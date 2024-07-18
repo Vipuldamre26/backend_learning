@@ -1,0 +1,24 @@
+
+1721215073861: GET: /api/users/1003
+
+1721215083379: GET: /api/users
+
+1721284740840: GET: /
+
+1721284741965: GET: /favicon.ico
+
+1721284747515: GET: /users
+
+1721284754144: GET: /api/users/
+
+1721284773025: GET: /api/users/1003
+
+1721284778833: GET: /api/users/1000
+
+1721284811829: GET: /api/users
+
+1721303484413: GET: /api/users/
+
+1721303485015: GET: /favicon.ico
+
+1721303619009: POST: /api/users
